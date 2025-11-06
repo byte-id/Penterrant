@@ -3,7 +3,7 @@ Cybersecurity capstone studio project S25 - pentesting
 
 
 
-Note \
+##### Note
 No actual code exploits or explicit documentation is uploaded (general info and ideas)
 Some code have been developed with the assistance of Claude AI for constructing an early prototype for demonstrational purposes.
 
