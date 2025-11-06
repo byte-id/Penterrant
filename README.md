@@ -1,6 +1,7 @@
 # Penterrant
 Cybersecurity capstone studio project S25 - pentesting
 
+*A single test provides an overview for everyone*
 
 
 #### Note
