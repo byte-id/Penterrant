@@ -1,4 +1,4 @@
-# clean_hashes_args.py
+# Splits password hashes and user name string into one pair per line, trimming whitespace
 import sys
 
 # Check arguments
