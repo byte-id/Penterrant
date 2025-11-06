@@ -1,4 +1,4 @@
-# clean_hashes_interactive.py
+# Takes input and outfile user prompt, username/password string hash, one pair per line trimming whitespace
 
 # Ask user for filenames
 input_file = input("Enter input filename: ").strip()
