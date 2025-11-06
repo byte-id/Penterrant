@@ -6,6 +6,7 @@ Cybersecurity capstone studio project S25 - pentesting
 
 #### Note
 * No actual code exploits or explicit documentation is uploaded (general info and ideas)
+* For product understanding - read [details](https://github.com/byte-id/Penterrant/blob/main/Details_Improvements.md)
 * Some code have been developed with the assistance of Claude AI for constructing an early prototype for demonstrational purposes.
 
 For continuation: \
